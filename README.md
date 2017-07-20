@@ -1,0 +1,1 @@
+# Hapi-TypeScript-Api-Starter
